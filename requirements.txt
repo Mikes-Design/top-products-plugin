@@ -1,0 +1,7 @@
+beautifulsoup4
+requests
+pandas
+pymysql
+python-dotenv
+scrapy
+schedule
